@@ -14,7 +14,13 @@ A simple AI agent service built with FastMCP using Streamable HTTP protocol.
 ### 1. Install Dependencies
 
 ```bash
-pip install mcp openai anthropic
+pip install mcp[cli] openai requests
+```
+
+Or 
+
+```bash
+uv sync
 ```
 
 ### 2. Set Up API Key (Optional)
@@ -22,6 +28,7 @@ pip install mcp openai anthropic
 For real LLM integration, set one of:
 
 *See https://openrouter.ai/models for free models.*
+Please change the model at llm_service.py (see arguments of AsyncOpenAI)
 
 ```bash
 # For OpenAI
