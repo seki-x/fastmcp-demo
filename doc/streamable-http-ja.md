@@ -2,7 +2,7 @@
 
 ## Streamable HTTPとは？
 
-**Streamable HTTP**は、リクエスト-レスポンスパターンとリアルタイムストリーミング機能を単一のHTTPエンドポイントで統合する現代的な通信プロトコルです。AIエージェントアーキテクチャ専用に設計され、**Model Context Protocol（MCP）**の中核コンポーネントです。
+**Streamable HTTP**は、リクエスト-レスポンスパターンとリアルタイムストリーミング機能を単一のHTTPエンドポイントで統合する現代的な通信プロトコルです。AIエージェントアーキテクチャ専用に設計され、[**Model Context Protocol（MCP）**](https://modelcontextprotocol.io/specification/2025-03-26/basic/transports)の中核コンポーネントです。
 
 ### 主要特徴
 
