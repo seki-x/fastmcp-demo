@@ -1,6 +1,6 @@
 # FastMCP AI Agent Demo
 
-A simple AI agent service built with FastMCP using Streamable HTTP protocol.
+A simple AI agent service built with FastMCP using Streamable HTTP protocol (See [doc](doc)).
 
 ## Features
 
