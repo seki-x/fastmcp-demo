@@ -2,7 +2,7 @@
 
 ## What is Streamable HTTP?
 
-**Streamable HTTP** is a modern communication protocol that unifies request-response patterns with real-time streaming capabilities in a single HTTP endpoint. It was designed specifically for AI agent architectures and is a core component of the [**Model Context Protocol (MCP)**](https://modelcontextprotocol.io/specification/2025-03-26/basic/transports).
+**Streamable HTTP** is a modern communication protocol that unifies request-response patterns with real-time streaming capabilities in a single HTTP endpoint. It was designed specifically for AI agent architectures and is a core component of the  **Model Context Protocol（MCP）** | [Transport](https://modelcontextprotocol.io/specification/2025-03-26/basic/transports).
 
 ### Key Characteristics
 
